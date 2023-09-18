@@ -1,0 +1,6 @@
+*.md
+**/.git
+**./npm-debug.log*
+./pg-data
+**/node_modules
+**/.env
